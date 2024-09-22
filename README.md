@@ -1,3 +1,9 @@
+## Popeen/Homebox
+
+This is my personal fork after HomeBox went read-only. Feel free to use it but don't expect any support, I don't plan on taking this on as a full project, only to keep it running.
+
+---
+
 <div align="center">
   <img src="/docs/docs/assets/img/lilbox.svg" height="200"/>
 </div>
